@@ -3,7 +3,7 @@
 ### I'm Full stack python developer
 
 - Currently focused on API development
-- Web scrapping and task routines
+- Web scrapping and Web data applications
 
 <div display="inline">
 <img width ="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
