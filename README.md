@@ -1,11 +1,12 @@
 <img width=100% src= "https://capsule-render.vercel.app/api?type=waving&height=200&color=00324D&text=Hello%20World%20&descAlignY=10&descAlign=9&fontAlign=50&animation=fadeIn&fontColor=FDFEFE&fontSize=40&fontAlignY=38"/>
 
 ### I'm Full stack python developer
+<br>
 
 - Currently focused on API development
 - Web scrapping and Web data applications
 - Robotic Process Automation
-
+<br>
 <div display="inline">
 <img width ="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width = "50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
