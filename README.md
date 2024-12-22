@@ -4,7 +4,7 @@
 
 - Currently focused on API development
 - Web scrapping and Web data applications
-- Task automation
+- Robotic Process Automation
 
 <div display="inline">
 <img width ="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
