@@ -10,7 +10,6 @@
 <div display ="inline">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white (https://finett0.github.io/Portfolio-Giovanni-Finetto/)">
 </div>
 <br>
 <div display="inline">
