@@ -3,8 +3,8 @@
 ### I'm Data Analyst
 <br>
 
-- Currently focused on API development
-- Web scrapping and Web data applications
+- Focused on data analysis in python
+- Dashboards in Power Bi
 - Robotic Process Automation
 <br>
 <div display ="inline">
