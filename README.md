@@ -1,10 +1,10 @@
 <img width=100% src= "https://capsule-render.vercel.app/api?type=waving&height=200&color=00324D&text=Hello%20World%20&descAlignY=10&descAlign=9&fontAlign=50&animation=fadeIn&fontColor=FDFEFE&fontSize=40&fontAlignY=38"/>
 
-### I'm Data Analyst
+### I'm Full Stack Python Developer
 <br>
 
-- Focused on data analysis in python
-- Dashboards in Power Bi
+- Focused on API development
+- Web data applications and Web scraping
 - Robotic Process Automation
 <br>
 <br>
